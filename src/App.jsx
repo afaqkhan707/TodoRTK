@@ -8,7 +8,7 @@ function App() {
       <div className='flex h-screen w-screen bg-slate overflow-hidden items-center justify-center'>
         <div className='todo-box'>
           <div className='add-todo'>
-            <h1>ReduxToolKit</h1>
+            <h1>ReduxToolKitTodo</h1>
             <AddTodo />
           </div>
           <div className='todo-list'>
